@@ -1,0 +1,29 @@
+# Ignorar todo por defecto
+*
+
+# No ignorar el propio archivo .gitignore
+!.gitignore
+
+# No ignorar la carpeta src
+!src/
+
+# Dentro de src, incluir solo archivos .java
+src/**/*.java
+
+# Ignorar archivos compilados
+*.class
+
+# Ignorar carpetas de salida comunes
+/out/
+/bin/
+
+# Ignorar configuraciones de IDE
+.idea/
+*.iml
+.vscode/
+.nbproject/
+.settings/
+
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
