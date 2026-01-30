@@ -8,7 +8,7 @@
 !src/
 
 # Dentro de src, incluir solo archivos .java
-src/**/*.java
+!src/**/*.java
 
 # Ignorar archivos compilados
 *.class
