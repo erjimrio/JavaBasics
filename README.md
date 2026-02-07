@@ -1,7 +1,7 @@
 📘 JavaBasics – Learning Exercises in Java
 
 📌 Project Description  
-This repository contains example exercises from the book *Java Programming for Beginners*.  
+This repository contains example exercises from the book *Java Programming for Beginners* by **Sarful Hassan**.  
 The main goal is to practice and reinforce fundamental concepts of the Java language while ensuring portability across multiple environments:  
 - Ubuntu VM with Java 21  
 - Linux MX laptop with Java 17  
